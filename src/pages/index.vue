@@ -2,7 +2,7 @@
 	import { useStore } from '@/store';
 	import VitailseLogo from '@/assets/logo.png';
 	useHead({
-		title: 'Vitailse | Opinionated vite starter template',
+		title: '',
 	});
 
 	const store = useStore();

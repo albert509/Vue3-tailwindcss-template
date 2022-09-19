@@ -1,6 +1,3 @@
-<p align='center'>
-  <img src='https://user-images.githubusercontent.com/45350572/138070856-731c849a-466b-41a2-b39d-c5b5e76e94fa.png' alt='Vitailse - Opinionated Vite Starter Template with TailwindCSS' width='300'/>
-</p>
 
 Opinionated Vite starter template with [TailwindCSS](https://tailwindcss.com/) 
 
@@ -80,20 +77,6 @@ Inspired by [Vitesse](https://github.com/antfu/vitesse) ❤
   - [Iconify IntelliSense](https://marketplace.visualstudio.com/items?itemName=antfu.iconify) - Icon inline display and autocomplete
   - [TailwindCSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - IDE support for Tailwind CSS
   - [i18n Ally](https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally) - All in one i18n support
-## Try it now!
-### GitHub Template
-
-[Create a repo from this template on GitHub](https://github.com/zynth17/vitailse/generate).
-
-### Clone to local
-
-If you prefer to do it manually with the cleaner git history
-
-```bash
-npx degit zynth17/vitailse my-vitailse-app
-cd my-vitailse-app
-pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
-```
 
 ## Checklist
 

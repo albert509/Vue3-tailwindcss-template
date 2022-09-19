@@ -1,27 +1,20 @@
 {
-	"name": "@zynth/vitailse",
-	"description": "Vite starter template with TailwindCSS",
+	"name": "@albert509/tailvue",
+	"description": "Vuejs3 starter template with TailwindCSS 3",
 	"version": "0.1.0",
 	"main": "src/main.ts",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/zynth17/vitailse.git"
-	},
 	"keywords": [
-		"vitailse",
+		"tailvue3",
+		"Vuejs3",
 		"tailwindcss",
 		"vite",
 		"vitesse"
 	],
-	"author": "Christopher Reeeve",
+	"author": "Luis Alberto",
 	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/zynth17/vitailse/issues"
-	},
-	"homepage": "https://github.com/zynth17/vitailse#readme",
 	"scripts": {
-		"dev": "vite",
-		"build": "vite-ssg build",
+		"dev": "vite --host",
+		"build": "vite build",
 		"serve": "vite preview",
 		"https-preview": "serve dist"
 	},

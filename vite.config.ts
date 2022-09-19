@@ -58,8 +58,8 @@ export default defineConfig({
 				'apple-touch-icon.png',
 			],
 			manifest: {
-				name: 'Vitailse',
-				short_name: 'Vitailse',
+				name: 'tailvue',
+				short_name: 'tailvue',
 				description: 'Opinionated vite template with TailwindCSS',
 				theme_color: '#076AE0',
 				icons: [
